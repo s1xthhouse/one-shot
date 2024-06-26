@@ -1,0 +1,4 @@
+repository "Demo_Sanctuary@Snowbizzz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
